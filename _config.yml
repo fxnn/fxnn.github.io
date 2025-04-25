@@ -3,6 +3,7 @@ exclude:
 - README.md
 - LICENSE
 - CNAME
+- Gemfile
 
 # content
 title: Felix Neumann
