@@ -99,6 +99,6 @@
 
 <section class="contact-section">
     <h2 class="section-title">Kontakt</h2>
-    <p><strong>E-Mail:</strong> <a href="mailto:kontakt@maxmustermann.de">kontakt@maxmustermann.de</a></p>
-    <p><strong>Standort:</strong> Berlin, Deutschland</p>
+    <p><strong>E-Mail:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+    <p><strong>Standort:</strong> {{ site.location }}</p>
 </section>
