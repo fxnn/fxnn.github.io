@@ -4,7 +4,6 @@
 <section class="about-section">
     <h2 class="section-title">Über mich</h2>
     <p>Hallo! Ich bin Informatiker mit einer Leidenschaft für beide Seiten der digitalen Welt: Von der Entwicklung (Java, Go, CI/CD, TDD) bis zum Betrieb (Kubernetes, Observability). Zwischen Codezeilen und Deployment-Pipelines finde ich als gebürtiger Thüringer und Wahl-Brandenburger Ausgleich beim Wandern durch märkische Wälder und beim Fotografieren besonderer Momente.</p>
-    <p>Wenn ich nicht gerade technische Herausforderungen löse oder Zeit mit meiner Familie verbringe, experimentiere ich mit Tasten – sowohl auf der Tastatur als auch am Keyboard. Diese Website ist ein Knotenpunkt meiner digitalen Identität, wo Berufliches und Persönliches zusammenfließen.</p>
 </section>
 
 <div class="links-container">
