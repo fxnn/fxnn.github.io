@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 <section class="about-section">
@@ -26,9 +26,9 @@ layout: home
                     <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
                         <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
                         <path d="M21 4a1 1 0 0 0 -1 -1h-1a6 6 0 0 0 -12 0h-1a1 1 0 0 0 -1 1v11a3 3 0 0 0 3 3h5.8l1.7 2.55a1 1 0 0 0 .9 .45 1 1 0 0 0 .9 -0.55l1.66 -3.36h1.54a3 3 0 0 0 3 -3z"/>
-                        <line x1="8" y1="11" x2="12" y2="11" />
-                        <line x1="8" y1="14" x2="12" y2="14" />
-                        <line x1="15" y1="11" x2="16" y2="11" />
+                        <line x1="8" y1="11" x2="12" y2="11"/>
+                        <line x1="8" y1="14" x2="12" y2="14"/>
+                        <line x1="15" y1="11" x2="16" y2="11"/>
                     </svg>
                     Mastodon
                 </a>
