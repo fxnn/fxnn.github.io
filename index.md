@@ -2,13 +2,13 @@
 ---
 
 <section class="about-section">
-    <h2 class="section-title">Über mich</h2>
-    <p>Hallo! Ich bin Informatiker mit einer Leidenschaft für beide Seiten der digitalen Welt: Von der Entwicklung (Java, Go, CI/CD, TDD) bis zum Betrieb (Kubernetes, Observability). Zwischen Codezeilen und Deployment-Pipelines finde ich als gebürtiger Thüringer und Wahl-Brandenburger Ausgleich beim Wandern durch märkische Wälder und beim Fotografieren besonderer Momente.</p>
+    <h2 class="section-title">About Me</h2>
+    <p>Hello! I'm a computer scientist with a passion for both sides of the digital world: from development (Java, Go, CI/CD, TDD) to operations (Kubernetes, Observability). Between lines of code and deployment pipelines, as a native Thuringian and adopted Brandenburger, I find balance hiking through the forests of the Mark Brandenburg and photographing special moments.</p>
 </section>
 
 <div class="links-container">
     <div class="links-box">
-        <h3>Vernetzung</h3>
+        <h3>Networking</h3>
         <ul>
             <li>
                 <a href="https://linkedin.com/in/username" target="_blank">
@@ -51,7 +51,7 @@
         </ul>
     </div>
     <div class="links-box">
-        <h3>Inhalte</h3>
+        <h3>Content</h3>
         <ul>
             <li>
                 <a href="/cv.html">
@@ -62,7 +62,7 @@
                         <line x1="16" y1="17" x2="8" y2="17"></line>
                         <polyline points="10 9 9 9 8 9"></polyline>
                     </svg>
-                    Lebenslauf
+                    CV
                 </a>
             </li>
             <li>
@@ -79,7 +79,7 @@
                     <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
                     </svg>
-                    Aktivitäten
+                    Activities
                 </a>
             </li>
             <li>
@@ -89,7 +89,7 @@
                         <polyline points="2 17 12 22 22 17"></polyline>
                         <polyline points="2 12 12 17 22 12"></polyline>
                     </svg>
-                    Projekte
+                    Projects
                 </a>
             </li>
         </ul>
@@ -97,7 +97,7 @@
 </div>
 
 <section class="contact-section">
-    <h2 class="section-title">Kontakt</h2>
-    <p><strong>E-Mail:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-    <p><strong>Standort:</strong> {{ site.location }}</p>
+    <h2 class="section-title">Contact</h2>
+    <p><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+    <p><strong>Location:</strong> {{ site.location }}</p>
 </section>
