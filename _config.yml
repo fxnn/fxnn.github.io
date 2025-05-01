@@ -6,8 +6,10 @@ exclude:
 - Gemfile
 
 # content
-title: Max Mustermann | Persönönliche Website
+title: Felix Neumann | Persönönliche Website
 description: Webentwickler & Digitalstratege
+email: webmaster@fxnn.de
+location: Brandenburg, Germany
 
 # theming
 plugins:
