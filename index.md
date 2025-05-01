@@ -22,8 +22,12 @@
             </li>
             <li>
                 <a href="https://mastodon.social/@username" target="_blank">
-                    <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                        <path d="M21.5 8.5c0-4-4-4-4-4C12.5 4.5 7.5 4.5 2.5 4.5c0 0-4 0-4 4v3c0 5 3 8 8 8h1c3 0 5-1 5-3h-1c-4 0-4-3-4-3V9.5c0-1 .5-2 2-2 1.5 0 2 1 2 2v5c0 2 2 3 4 3C19.5 17.5 21.5 12.5 21.5 8.5Z"/>
+                    <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M21 4a1 1 0 0 0 -1 -1h-1a6 6 0 0 0 -12 0h-1a1 1 0 0 0 -1 1v11a3 3 0 0 0 3 3h5.8l1.7 2.55a1 1 0 0 0 .9 .45 1 1 0 0 0 .9 -0.55l1.66 -3.36h1.54a3 3 0 0 0 3 -3z"/>
+                        <line x1="8" y1="11" x2="12" y2="11" />
+                        <line x1="8" y1="14" x2="12" y2="14" />
+                        <line x1="15" y1="11" x2="16" y2="11" />
                     </svg>
                     Mastodon
                 </a>
