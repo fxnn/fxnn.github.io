@@ -27,7 +27,8 @@ title: Curriculum Vitae
 ## Experience
 
 ### Senior Java Developer
-**[IONOS](https://www.ionos.de)** | Full-time · *Berlin, Germany*
+**[IONOS](https://www.ionos.de)** · *Berlin, Germany*
+
 *Aug 2020 - Present (4 yrs 10 mos)*
 
 *   Working on Quarkus Microservices, deployed in a k8s cluster, operated with our continuous delivery pipeline, engineered for scalability, reliability, maintainability and observability. Working on our legacy monolith, improving it and splitting it up.
@@ -35,7 +36,8 @@ title: Curriculum Vitae
 *   **Skills:** Katas · TDD · Java · ... *(Add more relevant skills)*
 
 ### Software Architect
-**[IVU Traffic Technologies AG](https://www.ivu.com)** | Full-time · *Berlin and surrounding area, Germany*
+**[IVU Traffic Technologies AG](https://www.ivu.com)** · *Berlin and surrounding area, Germany*
+
 *Jul 2014 - Jul 2020 (6 yrs 1 mo)*
 
 *   Java development, mentoring team colleagues, innovation of methodologies and tools. Execution of requirements engineering, conception, development, operation. Presentations and documentation.
@@ -43,7 +45,8 @@ title: Curriculum Vitae
 *   **Skills:** Mockito · TestNG · Java · ... *(Add more relevant skills)*
 
 ### Software Engineer
-**[IVU Traffic Technologies AG](https://www.ivu.com)** | Full-time · *Berlin and surrounding area, Germany*
+**[IVU Traffic Technologies AG](https://www.ivu.com)** · *Berlin and surrounding area, Germany*
+
 *Oct 2012 - Jun 2014 (1 yr 9 mos)*
 
 *   Development and conception of new features, improvement of testing methodology, implementation of legal requirements in applications for the preparation and execution of municipal elections.
@@ -51,6 +54,7 @@ title: Curriculum Vitae
 
 ### Praktikant (Intern)
 **[Bundesamt für Sicherheit in der Informationstechnik (BSI)](https://www.bsi.bund.de)** · *Bonn and surrounding area, Germany*
+
 *Feb 2011 - Jul 2011 (6 mos)*
 
 *   Conception of an attack detection system for SOA / web services based on business process whitelisting.
