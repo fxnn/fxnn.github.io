@@ -64,6 +64,13 @@ p {
 a {
     color: var(--color-accent);
     text-decoration: none;
+    transition: text-decoration-color 0.2s ease-in-out; // Optional: for smoother underline appearance if color changes
+
+    &:hover {
+        text-decoration: underline;
+        // If you have a pre-defined darker accent color variable, you could change color here too.
+        // For now, just underlining is fine.
+    }
 }
 
 /* Header */
@@ -183,6 +190,99 @@ footer {
     }
     .site-title {
         font-size: 2.2rem;
+    }
+}
+
+/* CV Page Specific Styles */
+/* These styles target elements within the <main> tag on the CV page */
+
+main {
+    h2 { // CV Section Titles (e.g., Personal Information, Experience)
+        text-align: left;
+        font-size: 1.7rem;
+        color: var(--color-accent);
+        margin-top: 3rem;
+        margin-bottom: 1.5rem;
+        padding-bottom: 0.5rem;
+        border-bottom: 2px solid var(--color-accent-light);
+    }
+
+    h3 { // Job Titles, Degree Names, Certification Names
+        text-align: left;
+        font-size: 1.35rem;
+        color: var(--color-text);
+        margin-top: 2rem;
+        margin-bottom: 0.25rem; // Reduced margin to keep it close to details below
+    }
+
+    // Paragraph immediately following an H3 (e.g., Company & Date, University & Degree Name)
+    h3 + p {
+        margin-top: 0;
+        margin-bottom: 1rem;
+        font-size: 0.95rem;
+        color: var(--color-dark-gray);
+        line-height: 1.5; // Slightly tighter line height for meta information
+
+        strong { // e.g., Company Name, "Scrum.org", Degree Name in Education section
+            color: var(--color-text); // Make it stand out from other details
+            font-weight: 600;
+        }
+
+        em { // e.g., Dates, Location - default italic styling is usually fine
+            font-style: italic;
+        }
+    }
+
+    // Summary section (blockquote)
+    blockquote {
+        margin: 1.5rem 0 2rem 0; // Vertical spacing, no horizontal indent from main text flow
+        padding: 1rem 1.5rem;
+        background-color: var(--color-accent-light);
+        border-left: 4px solid var(--color-accent);
+        
+        p {
+            margin-bottom: 0; // No extra margin for paragraph inside blockquote
+            font-size: 1rem;  // Ensure consistent font size
+            font-style: italic; // Make the summary text italic
+            color: var(--color-text); // Use standard text color or a slightly muted one
+        }
+    }
+
+    // Lists in CV
+    ul {
+        list-style-type: none; // Default to no bullets for most CV lists
+        margin-left: 0;        // Reset margin
+        padding-left: 0;       // Remove browser default padding
+        margin-bottom: 1rem;
+
+        li {
+            margin-bottom: 0.6rem; // Spacing between list items
+            line-height: 1.6;
+
+            strong { // For key-value like items (e.g., "Name:", "Skills:")
+                font-weight: 600;
+                color: var(--color-text); // Ensure keys are clearly visible
+                margin-right: 0.5em; // Add some space after the bolded key
+            }
+        }
+    }
+
+    // Add bullets specifically for:
+    // - Experience item responsibilities: h3 -> p (company details) -> ul (responsibilities)
+    // - Education item details: h3 (Uni) -> p (degree) -> p (date) -> p (grade) -> p (activities) -> ul (details)
+    h3 + p + ul,
+    h3 + p + p + p + p + ul { // This selector targets the Education list based on its structure
+        list-style-type: disc;
+        margin-left: 20px; // Indent for bullets
+        padding-left: 0;   // Ensure no double padding
+
+        li {
+            margin-bottom: 0.4rem; // Slightly tighter spacing for bullet points
+
+            strong { // If a bullet point itself starts with strong (e.g., "Skills:" under a job)
+                margin-right: 0.3em; // Adjust spacing if needed
+            }
+        }
     }
 }
 
