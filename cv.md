@@ -74,7 +74,8 @@ title: Curriculum Vitae
 * Grade: 1.1
 * Activities and societies: Examination board, Debating club
 * Several years of work as a tutor, exercise instructor, and research assistant. Fourth place in the IT Security Award from CAST e.V. in the "Bachelor's and Student Theses" category.
-* [Master's Thesis "Formale Spezifikation politikbezogener Funktionen einer Trusted Computing Base"](https://www.linkedin.com/in/fxneumann/overlay/50711883/single-media-viewer?type=DOCUMENT&profileId=ACoAABoS1MoBmxc5acVR_-P5wmK9OkQ18bz6k0k)
+* [Master's Thesis "Formale Spezifikation politikbezogener Funktionen einer Trusted Computing Base"](assets/pdf/thesis.pdf) (2012)
+* [Master's Thesis Abstract "Formale Spezifikation politikbezogener Funktionen einer Trusted Computing Base"](assets/pdf/thesis-abstract.md) (2012)
 
 ## Licenses & Certifications
 
