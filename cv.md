@@ -13,10 +13,15 @@ title: Curriculum Vitae
 ## Summary
 
 > 🏋️ &gt;10yrs fullstack java developer.
+>
 > 🤓 fluid in front&backend, k8s and root shell
+>
 > ♻️ sharing knowledge, improving continuously
+>
 > 👬 pairing, ensemble sessions, TDD
+>
 > 💭 curious, reflected, agile mindset, product focus
+>
 > ❤️ make the world a better place
 
 ## Experience
