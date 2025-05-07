@@ -13,6 +13,16 @@
     --font-serif: 'Merriweather', Georgia, serif;
 }
 
+.dead-link, .dead-link:hover, .dead-link:visited {
+    color: var(--color-dark-gray);
+    text-decoration: none;
+    cursor: default;
+}
+
+.dead-link .icon {
+    color: var(--color-dark-gray);
+}
+
 /* Basis-Reset */
 * {
     margin: 0;
