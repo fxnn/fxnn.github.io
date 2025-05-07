@@ -10,10 +10,11 @@ title: Felix Neumann
 description: Software Developer
 email: webmaster@fxnn.de
 location: Brandenburg, Germany
-linkedin_url: https://linkedin.com/in/username
-mastodon_url: https://mastodon.social/@username
-instagram_url: https://instagram.com/username
-pixelfed_url: https://pixelfed.social/username
+social_media:
+  linkedin_url: https://linkedin.com/in/username
+  mastodon_url: https://mastodon.social/@username
+  instagram_url: https://instagram.com/username
+  pixelfed_url: https://pixelfed.social/username
 
 # theming
 plugins:
