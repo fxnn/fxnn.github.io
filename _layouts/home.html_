@@ -105,9 +105,9 @@ layout: default
     <p><strong>Location:</strong> {{ site.location }}</p>
     <script>
       document.addEventListener('DOMContentLoaded', function() {
-        {% if site.email_local_part and site.email_domain_part %}
-          const emailUser = "{{ site.email_local_part }}";
-          const emailDomain = "{{ site.email_domain_part }}";
+        {% if site.email.local_part and site.email.domain_part %}
+          const emailUser = "{{ site.email.local_part }}";
+          const emailDomain = "{{ site.email.domain_part }}";
           const emailAddress = emailUser + "@" + emailDomain;
           
           const emailLink = document.getElementById('email-link');

@@ -9,8 +9,9 @@ exclude:
 # content
 title: Felix Neumann
 description: Software Developer
-email_local_part: webmaster
-email_domain_part: fxnn.de
+email:
+  local_part: webmaster
+  domain_part: fxnn.de
 location: Brandenburg, Germany
 social_media:
   linkedin_url: https://www.linkedin.com/in/fxneumann/
