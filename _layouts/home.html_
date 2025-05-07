@@ -11,7 +11,7 @@ layout: default
         <h3>Networking</h3>
         <ul>
             <li>
-                <a href="https://linkedin.com/in/username" target="_blank">
+                <a href="{{ site.linkedin_url }}" target="_blank">
                     <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
                         <circle cx="12" cy="10" r="3"></circle>
@@ -21,7 +21,7 @@ layout: default
                 </a>
             </li>
             <li>
-                <a href="https://mastodon.social/@username" target="_blank">
+                <a href="{{ site.mastodon_url }}" target="_blank">
                     <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <path d="M3 20V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-7.93a2 2 0 0 0-1.66.89L8 20H3z"></path>
                         <line x1="7" y1="8" x2="17" y2="8"></line>
@@ -32,7 +32,7 @@ layout: default
                 </a>
             </li>
             <li>
-                <a href="https://instagram.com/username" target="_blank">
+                <a href="{{ site.instagram_url }}" target="_blank">
                     <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
                         <circle cx="8.5" cy="8.5" r="1.5"></circle>
@@ -42,7 +42,7 @@ layout: default
                 </a>
             </li>
             <li>
-                <a href="https://pixelfed.social/username" target="_blank">
+                <a href="{{ site.pixelfed_url }}" target="_blank">
                     <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
                         <circle cx="8.5" cy="8.5" r="1.5"></circle>
