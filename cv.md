@@ -6,10 +6,9 @@ title: Curriculum Vitae
 ## Personal Information
 
 *   **Name:** Felix Neumann
+*   **Year of Birth:** 1987
 *   **Location:** Berlin Metropolitan Area
-*   **Email:** [Your Email]
-*   **LinkedIn:** [linkedin.com/in/fxneumann](https://linkedin.com/in/fxneumann)
-*   **GitHub:** [github.com/fxneumann](https://github.com/fxneumann)
+*   **Website:** [fxnn.de](https://fxnn.de)
 
 ## Summary
 
