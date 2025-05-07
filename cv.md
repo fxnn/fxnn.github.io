@@ -27,7 +27,7 @@ title: Curriculum Vitae
 ## Experience
 
 ### Senior Java Developer
-**IONOS** | Full-time
+**[IONOS](https://www.ionos.de)** | Full-time
 *Aug 2020 - Present (4 yrs 10 mos)*
 *Berlin, Deutschland · Hybrid*
 
@@ -36,7 +36,7 @@ title: Curriculum Vitae
 *   **Skills:** Katas · TDD · Java · ... *(Add more relevant skills)*
 
 ### Software Architect
-**IVU Traffic Technologies AG** | Full-time
+**[IVU Traffic Technologies AG](https://www.ivu.com)** | Full-time
 *Jul 2014 - Jul 2020 (6 yrs 1 mo)*
 *Berlin und Umgebung, Deutschland*
 
@@ -45,7 +45,7 @@ title: Curriculum Vitae
 *   **Skills:** Mockito · TestNG · Java · ... *(Add more relevant skills)*
 
 ### Software Engineer
-**IVU Traffic Technologies AG** | Full-time
+**[IVU Traffic Technologies AG](https://www.ivu.com)** | Full-time
 *Oct 2012 - Jun 2014 (1 yr 9 mos)*
 *Berlin und Umgebung, Deutschland*
 
@@ -53,7 +53,7 @@ title: Curriculum Vitae
 *   **Skills:** Mockito · TestNG · Java · ... *(Add more relevant skills)*
 
 ### Praktikant (Intern)
-**Bundesamt für Sicherheit in der Informationstechnik (BSI)**
+**[Bundesamt für Sicherheit in der Informationstechnik (BSI)](https://www.bsi.bund.de)**
 *Feb 2011 - Jul 2011 (6 mos)*
 *Bonn und Umgebung, Deutschland*
 
