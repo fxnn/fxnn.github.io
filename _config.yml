@@ -4,6 +4,7 @@ exclude:
 - LICENSE
 - CNAME
 - Gemfile
+- .aider.*
 
 # content
 title: Felix Neumann
@@ -11,10 +12,10 @@ description: Software Developer
 email: webmaster@fxnn.de
 location: Brandenburg, Germany
 social_media:
-  linkedin_url: https://linkedin.com/in/username
-  mastodon_url: https://mastodon.social/@username
-  instagram_url: https://instagram.com/username
-  pixelfed_url: https://pixelfed.social/username
+  linkedin_url: https://www.linkedin.com/in/fxneumann/
+  mastodon_url: https://hachyderm.io/@fxnn
+  instagram_url: https://www.instagram.com/fxnn.de/
+  pixelfed_url: https://pixelfed.social/fxnn
 
 # theming
 plugins:
