@@ -74,8 +74,14 @@ title: Curriculum Vitae
 * Grade: 1.1
 * Activities and societies: Examination board, Debating club
 * Several years of work as a tutor, exercise instructor, and research assistant. Fourth place in the IT Security Award from CAST e.V. in the "Bachelor's and Student Theses" category.
-* [Master's Thesis "Formale Spezifikation politikbezogener Funktionen einer Trusted Computing Base"](assets/pdf/thesis.pdf) (2012)
-* [Master's Thesis Abstract "Formale Spezifikation politikbezogener Funktionen einer Trusted Computing Base"](assets/pdf/thesis-abstract.md) (2012)
+* [Master's Thesis "Formale Spezifikation politikbezogener Funktionen einer Trusted Computing Base"](assets/pdf/formale-spezifikation-politikbezogener-funktionen-einer-trusted-computing-base.pdf) (2012)
+* [Master's Thesis Abstract "Formale Spezifikation politikbezogener Funktionen einer Trusted Computing Base"](assets/pdf/formale-spezifikation-politikbezogener-funktionen-einer-trusted-computing-base.md) (2012)
+* [Bachelor's Thesis "Parallelisierung von HRU-Safety-Analysen"](assets/pdf/parallelisierung-von-hru-safety-analysen.pdf) (2010)
+* [Bachelor's Thesis Abstract "Parallelisierung von HRU-Safety-Analysen"](assets/pdf/parallelisierung-von-hru-safety-analysen.md) (2010)
+* [Seminar Paper "Populäre Matchings und stabile Paarungen"](assets/pdf/populaere-matchings-und-stabile-paarungen.pdf) (2012)
+* [Seminar Paper Abstract "Populäre Matchings und stabile Paarungen"](assets/pdf/populaere-matchings-und-stabile-paarungen.md) (2012)
+* [Seminar Paper "Die Nizza-Systemarchitektur"](assets/pdf/die-nizza-systemarchitektur.pdf) (2009)
+* [Seminar Paper Abstract "Die Nizza-Systemarchitektur"](assets/pdf/die-nizza-systemarchitektur.md) (2009)
 
 ## Licenses & Certifications
 
