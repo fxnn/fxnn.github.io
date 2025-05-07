@@ -97,5 +97,5 @@ Issued Jan 2022 by [PeopleCert](https://www.peoplecert.org/for-corporations/cert
 
 ## Organizations
 
-*   **German Informatics Society** - Member
+*   **[Gesellschaft für Informatik e.V.](https://gi.de)** - Member
     *   *Nov 2015 - Present*
