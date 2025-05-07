@@ -3,8 +3,6 @@ layout: default
 title: CV
 ---
 
-# Curriculum Vitae - Felix Neumann
-
 ## Personal Information
 
 *   **Name:** Felix Neumann
