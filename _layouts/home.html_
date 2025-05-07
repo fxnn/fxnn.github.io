@@ -101,6 +101,33 @@ layout: default
 
 <section class="contact-section">
     <h2 class="section-title">Contact</h2>
-    <p><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+    <p><strong>Email:</strong> <a id="email-link" href="#" aria-label="Email address, JavaScript required to view"><span id="email-text">[Enable JavaScript to see email]</span></a></p>
     <p><strong>Location:</strong> {{ site.location }}</p>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        {% if site.email and site.email contains '@' %}
+          const emailUser = "{{ site.email | split: '@' | first }}";
+          const emailDomain = "{{ site.email | split: '@' | last }}";
+          const emailAddress = emailUser + "@" + emailDomain;
+          
+          const emailLink = document.getElementById('email-link');
+          const emailTextSpan = document.getElementById('email-text');
+
+          if (emailLink && emailTextSpan) {
+            emailLink.href = "mailto:" + emailAddress;
+            emailTextSpan.textContent = emailAddress;
+            emailLink.setAttribute('aria-label', 'Email ' + emailAddress);
+          }
+        {% else %}
+          const emailLink = document.getElementById('email-link');
+          const emailTextSpan = document.getElementById('email-text');
+          if (emailTextSpan) {
+            emailTextSpan.textContent = "[Email not configured]";
+          }
+          if (emailLink) {
+            emailLink.setAttribute('aria-label', 'Email address not configured');
+          }
+        {% endif %}
+      });
+    </script>
 </section>
