@@ -73,16 +73,11 @@ title: Curriculum Vitae
 
 ## Licenses & Certifications
 
-*   **Professional Scrum Product Owner™ I (PSPO I)** - Scrum.org
-    *   Issued May 2023
-    *   Credential ID 965374
-    *   [Show credential](https://www.scrum.org/certificates/965374)
-    *   **Skills:** Scrum
+### Professional Scrum Product Owner™ I (PSPO I)
+Issued May 2023 by [Scrum.org](https://www.scrum.org/certificates/965374)
 
-*   **ITIL Foundation Certificate in IT Service Management** - PeopleCert
-    *   Issued Jan 2022
-    *   Credential ID GR671361065FN
-    *   [Show credential](https://www.peoplecert.org/for-corporations/certificate-verification-service)
+### ITIL Foundation Certificate in IT Service Management
+Issued Jan 2022 by [PeopleCert](https://www.peoplecert.org/for-corporations/certificate-verification-service) (GR671361065FN)
 
 ## Skills
 
