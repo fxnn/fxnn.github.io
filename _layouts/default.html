@@ -12,7 +12,11 @@
   <body>
     <header>
         <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-        <p class="site-subtitle">{{ site.description }}</p>
+        {% if page.url == '/' %}
+          <p class="site-subtitle">{{ site.description }}</p>
+        {% else %}
+          <p class="site-subtitle">{{ page.title }}</p>
+        {% endif %}
     </header>
     <main>
         {{ content }}
