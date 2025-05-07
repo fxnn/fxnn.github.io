@@ -74,10 +74,10 @@ title: Curriculum Vitae
 * Grade: 1.1
 * Activities and societies: Examination board, Debating club
 * Several years of work as a tutor, exercise instructor, and research assistant. Fourth place in the IT Security Award from CAST e.V. in the "Bachelor's and Student Theses" category.
-* [Seminar Paper "Die Nizza-Systemarchitektur"](assets/pdf/die-nizza-systemarchitektur.pdf) (2009)
-* [Bachelor's Thesis "Parallelisierung von HRU-Safety-Analysen"](assets/pdf/parallelisierung-von-hru-safety-analysen.pdf) (2010)
 * [Master's Thesis "Formale Spezifikation politikbezogener Funktionen einer Trusted Computing Base"](assets/pdf/formale-spezifikation-politikbezogener-funktionen-einer-trusted-computing-base.pdf) (2012)
 * [Seminar Paper "Populäre Matchings und stabile Paarungen"](assets/pdf/populaere-matchings-und-stabile-paarungen.pdf) (2012)
+* [Bachelor's Thesis "Parallelisierung von HRU-Safety-Analysen"](assets/pdf/parallelisierung-von-hru-safety-analysen.pdf) (2010)
+* [Seminar Paper "Die Nizza-Systemarchitektur"](assets/pdf/die-nizza-systemarchitektur.pdf) (2009)
 
 ## Licenses & Certifications
 
