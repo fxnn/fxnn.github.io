@@ -26,16 +26,39 @@ title: Curriculum Vitae
 
 ## Experience
 
+### Staff Software Engineer
+
+**[IONOS](https://www.ionos.de)** · *Berlin, Germany*
+
+*Mai 2025 - Present*
+
+* Guiding developers while they learn Kafka and Go.
+* Modernizing our Kubernetes based applications towards Geo Redundancy and an
+  improved environment, especially with Vault as secrets management tool.
+* Working with the teams to improve development processes, CI/CD pipelines,
+  observability and change/incident management.
+* Exploring new ways to support our development and operations processes using
+  AI tooling.
+* **Skills:** Golang, Kafka, Prometheus, Victoria Metrics, Loki, Grafana, Helm,
+  Kubernetes, GitHub Actions, LLaMA/ChatGPT/Claude
+
 ### Senior Java Developer
 
 **[IONOS](https://www.ionos.de)** · *Berlin, Germany*
 
-*Aug 2020 - Present*
+*Aug 2020 - Apr 2025*
 
-* Working on Quarkus and Golang Microservices, deployed through helm charts in a k8s cluster, operated with our continuous delivery pipeline, engineered for scalability, reliability, maintainability and observability. 
-* Working on our legacy monolith, understanding historically grown spaghetti code, improving testability, removing technical debt, splitting it up.
-* Contributing to our initiative to make our team more agile, more lean. Learning tons about waste, Scrum, TDD, ensemble programming, hexagonal architecture, coaching, creating knowledge sharing videos and more. Learning through coaches and trainings.
-* **Skills:** Golang, Kafka, Prometheus, Loki, Grafana, Helm, Kubernetes, Katas, TDD, Java, JakartaEE, Payara, GitHub Actions
+* Working on Quarkus and Golang Microservices, deployed through helm charts in
+  a k8s cluster, operated with our continuous delivery pipeline, engineered for
+  scalability, reliability, maintainability and observability.
+* Working on our legacy monolith, understanding historically grown spaghetti
+  code, improving testability, removing technical debt, splitting it up.
+* Contributing to our initiative to make our team more agile, more lean.
+  Learning tons about waste, Scrum, TDD, ensemble programming, hexagonal
+  architecture, coaching, creating knowledge sharing videos and more.
+  Learning through coaches and trainings.
+* **Skills:** Golang, Java, Helm, Kubernetes, Prometheus, Loki, Grafana,
+  Katas, TDD, JakartaEE, Payara, GitHub Actions
 
 ### Software Architect
 
@@ -74,8 +97,11 @@ title: Curriculum Vitae
 
 * Grade: 1.1
 * Activities and societies: Examination board, Debating club
-* Several years of work as a tutor, exercise instructor, and research assistant. Fourth place in the IT Security Award from CAST e.V. in the "Bachelor's and Student Theses" category.
-* [Master's Thesis "Formale Spezifikation politikbezogener Funktionen einer Trusted Computing Base"](assets/pdf/formale-spezifikation-politikbezogener-funktionen-einer-trusted-computing-base.pdf) (2012)
+* Several years of work as a tutor, exercise instructor, and research assistant.
+  Fourth place in the IT Security Award from CAST e.V. in the "Bachelor's and
+  Student Theses" category.
+* [Master's Thesis "Formale Spezifikation politikbezogener Funktionen einer
+  Trusted Computing Base"](assets/pdf/formale-spezifikation-politikbezogener-funktionen-einer-trusted-computing-base.pdf) (2012)
 * [Seminar Paper "Populäre Matchings und stabile Paarungen"](assets/pdf/populaere-matchings-und-stabile-paarungen.pdf) (2012)
 * [Bachelor's Thesis "Parallelisierung von HRU-Safety-Analysen"](assets/pdf/parallelisierung-von-hru-safety-analysen.pdf) (2010)
 * [Seminar Paper "Die Nizza-Systemarchitektur"](assets/pdf/die-nizza-systemarchitektur.pdf) (2009)
@@ -95,7 +121,8 @@ Issued Jan 2022 by [PeopleCert](https://www.peoplecert.org/for-corporations/cert
 * **Programming:** Java, Quarkus, ...
 * **Methodologies:** Agile, Scrum, TDD, Pair Programming, Ensemble Programming, ...
 * **Tools & Technologies:** Kubernetes (k8s), Docker, Git, Mockito, TestNG, ...
-* **Concepts:** Microservices, Continuous Delivery, Observability, Hexagonal Architecture, ...
+* **Concepts:** Microservices, Continuous Delivery, Observability, Hexagonal
+  Architecture, ...
 * **Other:** IT Automation, Requirements Engineering, Mentoring, ...
 
 ## Languages
